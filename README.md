@@ -25,24 +25,6 @@ A Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against th
 ![Screenshot 2024-09-13 130848](https://github.com/user-attachments/assets/3f556e8e-a3a5-4cb0-b7d2-749228e4198c)
 
 
-## Getting Started
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/rock-paper-scissors.git
-    ```
-2. **Navigate to the Project Directory**:
-    ```bash
-    cd rock-paper-scissors
-    ```
-3. **Open `index.html` in a Web Browser** to start playing.
-
-## File Structure
-
-- `index.html`: The main HTML file for the game interface.
-- `style.css`: Contains the styling for the game.
-- `script.js`: Contains the JavaScript logic for game functionality.
-
 ## How to Play
 
 1. Click on one of the choices: Rock, Paper, or Scissors.
