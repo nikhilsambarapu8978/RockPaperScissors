@@ -21,6 +21,7 @@ A Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against th
 ![Screenshot 2024-09-13 130545](https://github.com/user-attachments/assets/880faf42-99f0-4d49-ac9a-c12efb6ab328)
 
 **Game Result:**
+
 ![Screenshot 2024-09-13 130848](https://github.com/user-attachments/assets/3f556e8e-a3a5-4cb0-b7d2-749228e4198c)
 
 
